@@ -6,7 +6,7 @@ instana({
         enabled: true
     }
 });
- 
+
 const { MongoClient, ObjectId } = require('mongodb');
 const { createClient } = require('redis');
 const bodyParser = require('body-parser');
