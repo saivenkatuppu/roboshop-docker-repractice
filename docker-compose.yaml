@@ -1,4 +1,4 @@
-Network:
+networks:
  default:
   driver: bridge 
   name: roboshop
